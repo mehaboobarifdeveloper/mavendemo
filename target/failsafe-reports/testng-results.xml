@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-03T12:29:31 IST" name="Surefire suite" finished-at="2022-05-03T12:29:31 IST" duration-ms="28">
+    <groups>
+    </groups>
+    <test started-at="2022-05-03T12:29:31 IST" name="Surefire test" finished-at="2022-05-03T12:29:31 IST" duration-ms="28">
+      <class name="ITLogin">
+        <test-method signature="verifyInvalidLoginIT()[pri:0, instance:ITLogin@52aa2946]" started-at="2022-05-03T12:29:31 IST" name="verifyInvalidLoginIT" finished-at="2022-05-03T12:29:31 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidLoginIT -->
+        <test-method signature="verifyValidLoginIT()[pri:0, instance:ITLogin@52aa2946]" started-at="2022-05-03T12:29:31 IST" name="verifyValidLoginIT" finished-at="2022-05-03T12:29:31 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyValidLoginIT -->
+      </class> <!-- ITLogin -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
